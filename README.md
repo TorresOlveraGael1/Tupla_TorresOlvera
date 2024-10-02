@@ -39,3 +39,7 @@ print(type(mytuple))
 #Utilizando el metodo tuple para crear uno
 thistuple = tuple(("apple", "banana", "cherry", "pineapple", "kiwi"))
 print(thistuple)
+
+![image](https://github.com/user-attachments/assets/df2632ab-dc76-403c-bc05-dd1f67844c10)
+
+![image](https://github.com/user-attachments/assets/0e614e4b-f689-4ce6-bab0-15ca6c5b6982)
